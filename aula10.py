@@ -1,0 +1,1 @@
+# python não tem operador ternario
